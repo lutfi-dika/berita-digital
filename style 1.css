@@ -816,6 +816,26 @@ article p {
   color: #1d4ed8;
 }
 
+/* CTA Section */
+.cta {
+  background-color: #2563eb;
+  color: white;
+  padding: 4rem 0;
+  text-align: center;
+}
+
+.cta h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.cta p {
+  font-size: 1.25rem;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 2rem;
+}
+
 /* Footer */
 footer {
   background-color: #1f2937;
