@@ -836,11 +836,14 @@ article p {
   margin-bottom: 2rem;
 }
 
+.categories{
+  margin-bottom: 10%;
+}
+
 /* Footer */
 footer {
   background-color: #1f2937;
-  color: white;
-  padding: 3rem 0;
+
 }
 
 .footer-grid {
